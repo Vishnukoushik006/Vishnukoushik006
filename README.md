@@ -24,7 +24,7 @@
 
 ## 🌐 Connect with Me
 
-[LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/vishnu-koushik-samayamantri-20b023316/))
+[LinkedIn](https://www.linkedin.com/in/vishnu-koushik-samayamantri-20b023316/)
 
 [GMAIL](vishnukoushik353@gmail.com)
 
