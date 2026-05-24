@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on Full Stack Web Applications and Ai Applications
-- 🌱 Learning Java Full Stack Stack & AI
+- 🌱 Learning Java Full Stack & AI
 - 💬 Ask me about Java, DSA, Java Script,React 
 - ⚡ Fun fact: I love solving problems
 
